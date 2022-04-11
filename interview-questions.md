@@ -43,7 +43,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: yarn is a package manager that installs node modules when creating a new React application.
 
-  Researched answer: Yarn also provides the following speed,consistency,stability, and security as an alternative to npm that is another popular pacakge manager.
+  Researched answer: Yarn also provides the following speed,consistency,stability, and security as an alternative to npm (node package manager) that is another popular alternative. 
 
 
 
